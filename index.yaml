@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  myapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-01T10:26:06.657719-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 2bb50d4b905894fbf6fd03b698d53c2e137048095becfa8211a2e9ce21987daf
+    name: myapp
+    type: application
+    urls:
+    - https://kentha60.github.io/kentha60-kenny-app23-repo/myapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-11-01T10:26:06.656261-04:00"
